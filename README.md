@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucaramanga, Colombia.
 
-- :telescope: I’m currently working as a junior professional at Banco de la República, contributing to the automation of different processes using tools like Python, Azure Functions, Azure DevOps, Power Automate, among others.
+- :telescope: I’m currently working as a Software Developer at Banco de la República, contributing to the automation of different processes using tools like Python, Azure Functions, Azure DevOps, Power Automate, among others.
 
 - :seedling: Exploring New Online Courses
 

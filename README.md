@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 👦 About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucaramanga, Colombia.
+I am a Backend Developer & Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucaramanga, Colombia.
 
 - :telescope: I’m currently working as a Software Developer at Banco de la República, contributing to the automation of different processes using tools like Python, Azure Functions, Azure DevOps, Power Automate, among others.
 

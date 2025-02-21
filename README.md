@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 I am a Backend Developer & Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucaramanga, Colombia.
 
-- :telescope: I’m currently working as a Software Developer at Banco de la República, contributing to the automation of different processes using tools like Python, Azure Functions, Azure DevOps, Power Automate, among others.
+- :telescope: I’m currently doing an Erasmus Mundus Joint Master in Politecnico di Milano, Italy, and Tampere University, Finland.
 
 - :seedling: Exploring New Online Courses
 
